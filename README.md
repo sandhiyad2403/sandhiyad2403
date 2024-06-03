@@ -6,7 +6,7 @@
 - **Tools**:  SQL
   
 ## Projects
-- **projecct1**: (https://github.com/iswaryat2708/studentdatabase-project) Built using Java and SQL a student management software.
+- **projecct1**: (https://github.com/sandhiyad2403/database-project) Built using Java and SQL a student management software.
 - **projecct2**: (https://github.com/iswaryat2708/tictactoe-project) Built using Java a tic-tac-toe game.
   
 ## Certifications
